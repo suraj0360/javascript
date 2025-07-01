@@ -1,4 +1,4 @@
-const name="suraj"
+const name3="suraj"
 const repocount=50
 
 // console.log(name+repocount);   //not recommended because it is outdated 
@@ -54,43 +54,40 @@ let a=50
 console.log(a.toString())
 console.log(game.valueOf());
   
-// ///
-// let name='is suraj%20yadav-is'
-// // console.log(name)
-// // console.log(name.length)
+// ///////////////////////////revison///////////////////////////////////////////////////////////////////                               
+console.log(name.length)
 // // //
-// // console.log(name.__proto__)
+console.log(name.__proto__)
 // // //
-// // //const variable=new String('suraj-Hc')
-// // console.log(name.toUpperCase());
-// // // // //
+const variable=new String('suraj-Hc')
+console.log(name.toUpperCase());
+// // //
 
-// // console.log(name.toLowerCase());
-// // console.log(name.charAt(3));
-// // //
-// // console.log(name.trim())
-// // //
-// // console.log(name.replace('%20','-'))
-// // //
-// // //console.log(name.slice(-,2))
-// console.log(name.substring(2,4))
-// console.log(name.substr(1,5))
-// console.log(name.match(/s/g))
-// console.log(name.indexOf('y'))
-// console.log(name.endsWith('is'))
-// console.log(name.startsWith('is'))
-// console.log(name.split('-'))
-// console.log(name.lastIndexOf('v'))
-// console.log(name.search('%20'))
-// let a=50
-// console.log(a.toString())
-// console.log(typeof(a))
-// console.log(name.valueOf())
-// console.log(name.charCodeAt(1))
-// console.log(name.repeat(2))
+console.log(name.toLowerCase());
+console.log(name.charAt(3));
+//
+console.log(name.trim())
+//
+console.log(name.replace('%20','-'))
+//
+console.log(name.substring(2,4))
+console.log(name.substr(1,5))
+console.log(name.match(/s/g))
+console.log(name.indexOf('y'))
+console.log(name.endsWith('is'))
+console.log(name.startsWith('is'))
+console.log(name.split('-'))
+console.log(name.lastIndexOf('v'))
+console.log(name.search('%20'))
+let b=50
+console.log(a.toString())
+console.log(typeof(a))
+console.log(name.valueOf())
+console.log(name.charCodeAt(1))
+console.log(name.repeat(2))
 
 
-// let name1='warrior'
-// let name2='arcane'
-// console.log(name1.concat(` is a friend of ${name2}`))
-// console.log(name.includes('y'))
+let name4='warrior'
+let name5='arcane'
+console.log(name4.concat(` is a friend of ${name5}`))
+console.log(name.includes('y'))
