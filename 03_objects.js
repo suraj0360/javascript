@@ -1,4 +1,4 @@
-const Mysym=["key1"]
+const Mysym=Symbol("key1")
 const JsUser={
     name:"suraj",
     [Mysym]:"mykey1",
