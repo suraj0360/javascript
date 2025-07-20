@@ -2,8 +2,7 @@
 
 //  alert(3+3) //we are using nodeJs, not browser
 
-console.log(3+
-    3)         //code should be readable
+console.log(3+3)         //code should be readable
 
     let name="suraj"
     let age=18

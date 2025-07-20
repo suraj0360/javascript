@@ -8,11 +8,15 @@ const Myarr2=new Array(1,2,3,4,5)
 console.log(MyArr[0]);
 
 
-//Array methods
- MyArr.push(7)
- MyArr.pop()
+// //Array methods
+MyArr.push(7)
+console.log(MyArr)
+MyArr.pop()
+console.log(MyArr)
 
-MyArr.unshift(2)             //Adds a element in starting of array
+
+MyArr.unshift(2)              //Adds a element in starting of array
+console.log(MyArr)             
 MyArr.shift()                //removes element 
 console.log(MyArr)
 
@@ -35,4 +39,3 @@ console.log(newArr)
         console.log("c ",MyArr)
         console.log(Myn2)
 
-       

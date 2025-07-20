@@ -4,8 +4,8 @@ var accountPassword="123456"
 accountCity="surat"
 let accountState;
 
-// accountId=2
- console.log(accountId)
+
+console.log(typeof(account1))
 accountPassword="5678"
 accountEmail="surajyadav@google.com"
 accountCity="Bengaluru"
